@@ -1,4 +1,4 @@
-## COMP2090SEF_course_project
+## COMP2090SEF_course_project-task1
 
 Group member: Cao Fei(13755803), Pan HaoWen(13752390),
 
