@@ -10,7 +10,7 @@ Group member: Cao Fei(13755803), Pan HaoWen(13752390),
 
 
 ## <a name="function"></a>🤔: The usage of the OOP concepts
-
+1.Dish and User in base_classes,py are abstract classes with @abstractmethod
 
 ## <a name="update"></a>Update
 - **2026.01.29**: We form our group and study what is Github and how to use it.
