@@ -95,7 +95,7 @@ The cart (Cart.calculate_total()) uses user.get_discount():
     self.cart_detail: List[Tuple[Dish, int]] = copy.deepcopy(cart.selected_dishes)  
 ```
 
-## <a name="update"></a>Update
+## <a name="update"></a>👨‍💻:Update
 - **2026.01.29**: We form our group and study what is Github and how to use it.
 - **2026.02.03**: We reviewed the specific requirements for the group project. At the same time we analyzed some project examples from the previous semester and Github. Finally, we chose the ordering system of HLMU coffee as our task 1.
 - **2026.02.06**:The specific process of the code has been determined.
